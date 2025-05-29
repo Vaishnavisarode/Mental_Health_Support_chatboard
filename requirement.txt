@@ -1,0 +1,8 @@
+uvicorn
+transformers
+textblob
+pymongo[snappy,gssapi,srv,tls]
+python-multipart
+fastapi==0.110.0
+pydantic==2.5.3
+typing-extensions>=4.6.0

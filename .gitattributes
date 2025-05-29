@@ -1,5 +1,6 @@
-# Set all text files to use automatic normalization (convert CRLF <-> LF)
-* text=auto
+
+# For all text files enforce LF line endings inside Git repo
+* text=auto eol=lf
 
 # Force all Python files to use LF line endings
 *.py text eol=lf
